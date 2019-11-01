@@ -38,7 +38,7 @@ Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add.
 23. buat akun terlebih dahulu.Pada laman github, klik tombol start a project, atau Dari menu (icon +) klik New Repository
 ![67634370-81323680-f8ed-11e9-9f15-ab195b997bc8](https://user-images.githubusercontent.com/57063216/68043056-001cda00-fd07-11e9-8a2b-944b6756a89a.png)
 24. Isi nama repositorynya, misal: latihan1git
-![20191102_005004](https://user-images.githubusercontent.com/57063216/68045304-c26e8000-fd0b-11e9-83cf-372b8da3c082.jpg)
+![20191102_005004 (2)](https://user-images.githubusercontent.com/57063216/68045968-5bea6180-fd0d-11e9-895a-21fa98159a81.jpg)
 klik tombol Create repository
 25. Menambahkan Remote Repository
 26. Untuk menambahkan remote repository server, gunakan perintah git remote add origin [url]
