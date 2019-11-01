@@ -1,4 +1,4 @@
-#latihan1git
+
 
 Cara dan langkah-langkah penggunaan Git
 1. Download git, buka website resminya (git-scm.com)
